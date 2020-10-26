@@ -1,0 +1,13 @@
+{
+  "name": "@scope/package-b",
+  "version": "0.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@scope/package-c": "^0.0.0",
+    "cowsay": "^1.4.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
